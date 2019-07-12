@@ -1,1 +1,2 @@
-# Homework6
+# Solutions_WeatherPy
+homework6
